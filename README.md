@@ -202,7 +202,7 @@
 </p>
 </details>
 
-## 春松客服开源社区
+## 必读文档
 
 - 了解春松客服采用的开源许可协议，参考[文档](https://www.cskefu.com/2023/06/25/chunsong-public-license-1-0/)
 - 了解春松客服的开发计划，参考[文档](https://github.com/cskefu/cskefu/issues)
@@ -210,7 +210,7 @@
 - 如何成为春松客服开发者，参考[文档](https://docs.cskefu.com/docs/osc/devonboard/)
 - 如何提交代码，参考[文档](https://docs.cskefu.com/docs/osc/contribution)
 
-### 春松部落
+### 微信群
 
 社区交流平台，在这里，您可以得到：
 
@@ -218,7 +218,10 @@
 * 认识更多朋友，讨论开源、元宇宙、人工智能、DevOps 等话题；
 * 合作开源软件迭代，一起开发出好的开源软件。
 
-春松部落链接： [上线寄语](https://dwz.chatopera.com/059F43) | [账户注册](https://tribe.cskefu.com/invite/28LjhB9f) | [实时动态](https://tribe.cskefu.com/public/local)
+微信扫一扫加入：
+
+![](public/assets/341928031-50b3a954-36d7-4b53-a684-b8d156bb803b.png)
+
 
 ### 工单
 
